@@ -46,7 +46,7 @@ ls
 In general, it is a good idea to immediate render the default article to check whether the template requires external R and/or LaTeX packages.
 
 ```bash
-## You might find that you don't have kableExtra, bloom; install them accordingly
+## You might find that you don't have these R packages: kableExtra, broom; install them accordingly
 quarto render mypaper.qmd
 ```
 
